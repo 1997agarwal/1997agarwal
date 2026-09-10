@@ -1,30 +1,27 @@
+<div align="center">
+
 # Hi, I'm Harshit Agarwal 👋
 
-**AI Product Manager & 0-to-1 Systems Builder**  
-I build and ship production-grade AI platforms, multi-agent workflows, and venture products from scratch. Combining rigorous product strategy (master PRDs, GTM, unit economics) with high-velocity full-stack AI engineering.
+### Product Manager by Profession • 0-to-1 AI Systems Builder • Aspiring Founder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-181717?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1997agarwal)
-[![X](https://img.shields.io/badge/X-Follow_%401997agarwal-181717?style=flat-square&logo=x&logoColor=white)](https://x.com/1997agarwal)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-181717?style=flat-square&logo=gmail&logoColor=white)](mailto:agarwal.harshit97@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Explore_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/1997agarwal)
+*Bridging product strategy (user discovery, master PRDs, unit economics) with full-stack AI engineering, multi-agent systems, and production architectures.*
 
----
+<br/>
 
-## 🚀 Flagship Products & What I Build
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshit--agarwal--pm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-agarwal-pm)
+[![X (Twitter)](https://img.shields.io/badge/X-@1997agarwal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/1997agarwal)
+[![GitHub](https://img.shields.io/badge/GitHub-1997agarwal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1997agarwal)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwal.harshit97@gmail.com)
 
-I don't just write PRDs—I ship complete, multi-surface platforms with production backends, clean data models, and modern UX.
-
-| Product / Platform | Domain & PM Problem Solved | Key PM Capabilities & Impact | Tech & AI Architecture |
-|---|---|---|---|
-| **[StartupOS](https://github.com/Builder-Tribe)** | **360° AI Product Incubator & Operating System** | Democratizes product building for founders & students. Features a Product Exchange feed, AI PRD & Architecture Studio, and an Admin LMS auditor. | React 18, Vite, Node.js API, AntiGravity agentic orchestration, 4-File Parity Standard |
-| **[Trippy](https://github.com/Nomad-Tribe)** | **AI Solo Travel & Community Ecosystem** | *"Travel solo, never alone."* Solves solo traveler safety, group matching, and community host monetization across 4 dedicated surfaces. | 4 Surfaces (Consumer Web, Partner CRM, Admin Console, Marketing), Matching Engine, Shared Node/Express API |
-| **[DupeScout](https://github.com/Trend-Tribe)** | **AI Shopping OS for Gen Z** | *"Shop the Look. Not the Markup."* Multimodal visual search intelligence discovering affordable fashion alternatives with transparent quality scores. | Multimodal Vision RAG, Chrome Extension, Vector Search, Multi-volume PRD & Investor Memo |
-| **[BusinessPay](https://github.com/Business-Tribe)** | **B2B Accounts Receivable Collections Accelerator** | Compresses Days Sales Outstanding (DSO) and accelerates cash flow via dynamic delinquency discounting, automated dispute SLAs, and Promise to Pay (PTP) workflows. | Collections Workqueue, Risk Analytics Drawer, Real-time Discount Engine, Dispute SLAs |
-| **[CollabKaro](https://github.com/Collab-Tribe)** | **Creator Economy & Influencer Marketplace** | India-first two-sided marketplace streamlining deal discovery, brief delivery, creator verification, and escrow payouts for brands and UGC creators. | Creator Portal, Brand CRM, React Native Mobile App (iOS/Android), Node 22 API |
+</div>
 
 ---
 
-## 🧠 How I Operate as a Product Manager
+## 🧭 About Me & Philosophy
+
+I am a **Product Manager** who loves building and shipping products from zero to one. My ultimate ambition is entrepreneurship—to build, launch, and scale venture-grade startups in the AI era. 
+
+I believe the next generation of great product leaders won't just manage backlogs or draw wireframes; they will deeply understand systems architecture, write production code, orchestrate autonomous AI agents, and prototype the future themselves.
 
 ```
        [ 0-to-1 Discovery ] ──► [ Master PRD & Specs ] ──► [ AI Multi-Agent Build ] ──► [ Production Launch ]
@@ -32,61 +29,103 @@ I don't just write PRDs—I ship complete, multi-surface platforms with producti
     market gap validation      user stories, data models         governance constitutions        feedback & iterations
 ```
 
-### 1. Rigorous 0-to-1 Product Thinking
-- **Master PRDs with Architectural Depth**: Every product starts with clear user personas, edge-case handling, data contracts, and success metrics (DSO, AOV, GMV, Retention, Activation funnels).
-- **Vibe Coding with Engineering Rigor**: Rapidly turning concept into working software using AI-assisted engineering while preserving architectural elegance and component isolation.
-
-### 2. Multi-Surface & Systems Mindset
-- Real products rarely live on just one screen. My platforms span **Consumer Apps**, **B2B Partner CRMs**, **Cross-Platform Mobile (React Native)**, and **Internal Admin Consoles** sharing clean, unified data layers.
-
-### 3. Constitutional AI & Agent Governance
-- Pioneered the **4-File Parity Standard** across repositories:
-  - `AGENTS.md` — AI agent constitution, security boundaries, and runtime execution rules
-  - `ROADMAP.md` — Living execution status and milestone tracking
-  - `CLAUDE.md` — System prompts and CLI tool guidance
-  - `CONTRIBUTING.md` — Governance, branching, and code quality standards
+* 🎯 **Product Leadership:** 0-to-1 discovery, customer pain mapping, comprehensive PRDs, GTM roadmaps, and core unit economics (CAC/LTV, DSO, GMV).
+* 🤖 **AI & Systems Architecture:** Multi-agent autonomous pipelines, AST-level token optimization, vector search (`pgvector`), and multimodal vision RAG.
+* 📐 **Engineering Discipline:** Pioneer of the **4-File Parity Governance Standard** (`AGENTS.md`, `CLAUDE.md`, `ROADMAP.md`, `CONTRIBUTING.md`) and clean Parent-Monorepo + Satellite deployment topologies.
 
 ---
 
-## 🛠️ Product & Technical Toolkit
+## ⚡ Open Source Developer Infrastructure
 
-| Category | Skills & Tools |
+> *Developer tools built for the modern AI engineering era. These projects are **100% public, open-source, and actively maintained**. Explore the codebase, fork, and feel free to contribute!*  
+> **⭐ If you find these tools useful, dropping a star on GitHub means the world!**
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🛠️ <a href="https://github.com/1997agarwal/SpecForge">SpecForge</a></h3>
+      <a href="https://github.com/1997agarwal/SpecForge"><img src="https://img.shields.io/github/stars/1997agarwal/SpecForge?style=social" alt="Stars"/></a>
+      <p><b>Autonomous Discovery-to-Spec Engine</b></p>
+      <p>A 3-agent pipeline (Discovery Agent, Architect Agent, Linear Sync) transforming fuzzy user ideas into structured, production-grade PRDs and synchronized Linear tickets.</p>
+      <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Linear SDK</code> <code>SQLite</code></p>
+      <a href="https://github.com/1997agarwal/SpecForge"><b>View Repo & Star ⭐ →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>💎 <a href="https://github.com/1997agarwal/ContextPrism">ContextPrism</a></h3>
+      <a href="https://github.com/1997agarwal/ContextPrism"><img src="https://img.shields.io/github/stars/1997agarwal/ContextPrism?style=social" alt="Stars"/></a>
+      <p><b>Enterprise Token FinOps & AST Pruner</b></p>
+      <p>A high-performance local FinOps proxy analyzing code Abstract Syntax Trees (AST) to strip boilerplate before prompt injection, cutting token spend by up to 40%.</p>
+      <p><b>Stack:</b> <code>Node.js</code> <code>TypeScript</code> <code>AST Parser</code> <code>Vite</code></p>
+      <a href="https://github.com/1997agarwal/ContextPrism"><b>View Repo & Star ⭐ →</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>⚖️ <a href="https://github.com/1997agarwal/PromptCourt">PromptCourt</a></h3>
+      <a href="https://github.com/1997agarwal/PromptCourt"><img src="https://img.shields.io/github/stars/1997agarwal/PromptCourt?style=social" alt="Stars"/></a>
+      <p><b>Multi-Model LLM Benchmark Arena</b></p>
+      <p>Blind side-by-side prompt evaluation platform utilizing Elo rating mathematics to empirically score and rank competitive LLM prompt outputs with statistical rigor.</p>
+      <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Elo Engine</code></p>
+      <a href="https://github.com/1997agarwal/PromptCourt"><b>View Repo & Star ⭐ →</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏛️ Commercial Ventures Portfolio
+
+> *A portfolio of 5 domain-specific commercial products architected from 0-to-1. Each venture is built with production multi-surface architectures (Consumer Apps, CRMs, Admin Consoles, and Deployment Satellites).*  
+> 
+> 🔒 **Proprietary Commercial IP:** *These repositories are maintained under private organizations. High-level architecture walkthroughs and live interactive product demos are available to investors, partners, and hiring leaders upon request.*
+
+| Venture | Problem & Market Thesis | Key Product Innovations & Architecture | Status & Access |
+|---|---|---|:---:|
+| **StartupOS** | **Universal 360° AI Product Incubator & Launchpad**<br/>Democratizing 0-to-1 software creation for founders, students, and indie builders. | • **Launchpad Exchange:** Product Hunt-style feed with live upvoting & feedback.<br/>• **Blueprint Studio:** Product workspace & automated 4-file parity health auditor.<br/>• **IdeaLab:** 0-to-1 AI prompt/voice validation engine with feasibility scoring.<br/>• **Tech Stack:** `React 18`, `Vite`, `Node.js API`, `Multi-Realm JWT`, `SQLite` | 🔒 Private IP<br/>*[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=StartupOS%20Demo%20Request)* |
+| **Trippy** | **AI Solo-Travel Group Matching & Community Host OS**<br/>*"Travel solo, never alone."* Solves solo traveler safety, group dynamics, and host economics. | • **Consumer Matchmaker:** Multi-attribute solo traveler matching & trip feeds.<br/>• **Partner CRM (`crm-`):** Tour host CRM for itinerary & booking management.<br/>• **Admin Console (`a-`):** Trust & safety verification, payments, and moderation.<br/>• **Tech Stack:** `React 18 SPA`, `Express`, `better-sqlite3`, `Node 22` | 🔒 Private IP<br/>*[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Demo%20Request)* |
+| **DupeScout** | **AI Shopping OS & Visual Similarity Engine**<br/>*"Shop the Look. Not the Markup."* Unlocks affordable fashion alternatives for Gen Z. | • **Multimodal Vision RAG:** Image similarity search powered by CLIP models.<br/>• **Cross-Platform:** Next.js consumer web/mobile app + Chrome Extension.<br/>• **Vector Architecture:** High-throughput vector similarity pipeline with `pgvector`.<br/>• **Tech Stack:** `Next.js 14`, `FastAPI (Python 3.14)`, `pgvector`, `PostgreSQL`, `Redis` | 🔒 Private IP<br/>*[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=DupeScout%20Demo%20Request)* |
+| **BusinessPay** | **B2B AR Collections & Dynamic Discounting Accelerator**<br/>Compresses Days Sales Outstanding (DSO) & unlocks trapped B2B cash flow. | • **Collector Workqueue:** Risk-scored aging buckets with action triggers.<br/>• **Dynamic Discounting Engine:** Real-time APR-based early payment discount math.<br/>• **Buyer Portal Simulation:** Self-serve invoice clearance and Promise-to-Pay (PTP).<br/>• **Tech Stack:** `React 19`, `Express 5`, `better-sqlite3`, `Node.js` | 🔒 Private IP<br/>*[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=BusinessPay%20Demo%20Request)* |
+| **CollabKaro** | **India-First Creator Marketplace & Escrow Milestone OS**<br/>Streamlines brand-creator deals with automated milestone security. | • **Brand & Agency Portal:** Campaign brief generator and creator discovery.<br/>• **Creator Media Kit Hub:** Live metric integration & rate-card generation.<br/>• **Escrow Milestone Engine:** Dual-mode funded milestones & automated payout release.<br/>• **Tech Stack:** `React TS`, `Vite`, `Express`, `PostgreSQL/SQLite` | 🔒 Private IP<br/>*[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=CollabKaro%20Demo%20Request)* |
+
+---
+
+## 📐 Systems Architecture & Governance Standards
+
+Every system I architect adheres to strict software engineering and operational standards:
+
+* **Parent Monorepos + Satellite Repositories:** Monorepos contain 100% of the project's source code. Deployment surfaces (marketing landing pages, mobile apps) are mirrored directly via `git subtree push`, ensuring zero nested `.git` conflicts and friction-free isolated deployments.
+* **100% 4-File Parity Governance:** Every codebase strictly implements the 4 pillars at its root:
+  * `AGENTS.md` — The Constitution (architectural boundaries, design systems, and rules).
+  * `CLAUDE.md` — Thin CLI guide (ports, commands, and local runtime rules).
+  * `ROADMAP.md` — Live milestone and delivery tracker (Completed, In Progress, Backlog).
+  * `CONTRIBUTING.md` — Conventional Commits, branch workflows, and PR hygiene.
+* **Clean Git Discipline:** Intentional Conventional Commits (`feat:`, `fix:`, `docs:`, `chore:`), zero automated backup noise, and pre-commit typecheck/build verification.
+
+---
+
+## 🛠️ The Technical & Product Arsenal
+
+| Category | Domain Skills & Technologies |
 |---|---|
-| **Product Leadership** | Product Strategy, 0-to-1 Prototyping, Master PRDs, User Discovery, GTM Roadmaps, Data Schema Design, Metric Funnels (DSO, CAC/LTV, Retention) |
-| **AI & Agentic Tech** | Agentic Workflows (AntiGravity, Claude Code, Emergent), Multimodal RAG, Vector Search, Prompt Architecture, MCP (Model Context Protocol) |
-| **Engineering Stack** | React 18, TypeScript, React Native (Expo), Node.js, Express, Tailwind CSS, Vite, REST APIs, SQLite / PostgreSQL |
-| **Product Design & Ops** | UI/UX Wireframing, User Journey Mapping, Systems Architecture Diagrams, Git Workflows, Agile Sprint Planning |
+| **Product Leadership** | 0-to-1 Product Discovery, Master PRDs, User Journey Mapping, Data Schema Design, GTM Strategy, Metric Funnels (DSO, AOV, GMV, Retention, CAC/LTV) |
+| **AI & Agentic Tech** | Autonomous Multi-Agent Pipelines, Prompt Architecture, AST Context Pruning, Multimodal Vision RAG, Vector Search (`pgvector`, CLIP) |
+| **Frontend Engineering** | React 18/19, Next.js 14 (App Router), TypeScript, Vite, Tailwind CSS, Component Architecture |
+| **Backend & APIs** | Node.js, Express 5, FastAPI (Python 3.14), RESTful APIs, JWT Auth, WebSockets, Service Boundaries |
+| **Databases & DevOps** | PostgreSQL, SQLite (`better-sqlite3`), Redis, Monorepo Topology, Git Subtrees, Vercel, Render, Docker |
 
 ---
 
-## 💼 Experience & Background
+## 💬 Let's Connect & Collaborate
 
-- **Builder & Product Architect** across Fintech, TravelTech, E-Commerce, Creator Economy, and Developer Tools.
-- **Track Record of Full Lifecycle Execution**: Idea conceptualization $\to$ Market Research $\to$ Technical Architecture $\to$ Working Full-Stack Product $\to$ Launchpad Deployment.
-- **Deep Hands-on Empathy for Developers**: Ability to speak engineering fluently, review system architectures, debug data schemas, and accelerate sprint velocity.
+Whether you are an **early-stage investor**, a **founder looking to collaborate**, or an **engineering/product leader** building at the frontier of AI:
 
----
+* 💼 **LinkedIn:** [/in/harshit-agarwal-pm](https://www.linkedin.com/in/harshit-agarwal-pm)
+* 🐦 **X (Twitter):** [@1997agarwal](https://x.com/1997agarwal)
+* 📬 **Email:** [agarwal.harshit97@gmail.com](mailto:agarwal.harshit97@gmail.com)
+* 🐙 **GitHub:** [@1997agarwal](https://github.com/1997agarwal)
 
-## 📬 Let's Build Together
+<br/>
 
-Looking for an **AI Product Manager** who can navigate ambiguity, design scalable systems, and ship relentlessly?
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshit-agarwal-pm" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-181717?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/1997agarwal" target="_blank">
-    <img src="https://img.shields.io/badge/X-Follow_%401997agarwal-181717?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:agarwal.harshit97@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get_in_Touch-181717?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/1997agarwal">
-    <img src="https://img.shields.io/badge/GitHub-Explore_Repos-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+> *"The best product managers don't just manage the backlog — they understand the system, prototype the future, and ship value."*
 
----
-<p align="center">
-  <i>"The best product managers don't just manage the backlog — they understand the system, prototype the future, and ship value."</i>
-</p>
+</div>
