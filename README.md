@@ -2,13 +2,13 @@
 
 # Hi, I'm Harshit Agarwal 👋
 
-### Product Manager by Profession • 0-to-1 AI Systems Builder • Aspiring Founder
+### Product Manager by Profession • Founder & 0-to-1 Systems Builder
 
 *Bridging product strategy (user discovery, master PRDs, unit economics) with full-stack AI engineering, multi-agent systems, and production architectures.*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harshit--agarwal--pm-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-agarwal-pm)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1997agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1997agarwal)
 [![X (Twitter)](https://img.shields.io/badge/X-@1997agarwal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/1997agarwal)
 [![GitHub](https://img.shields.io/badge/GitHub-1997agarwal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1997agarwal)
 [![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwal.harshit97@gmail.com)
@@ -19,7 +19,7 @@
 
 ## 🧭 About Me & Philosophy
 
-I am a **Product Manager** who loves building and shipping products from zero to one. My ultimate ambition is entrepreneurship—to build, launch, and scale venture-grade startups in the AI era. 
+I am a **Product Manager and Founder** who builds and ships products from zero to one. I build, launch, and scale venture-grade products in the AI era. 
 
 I believe the next generation of great product leaders won't just manage backlogs or draw wireframes; they will deeply understand systems architecture, write production code, orchestrate autonomous AI agents, and prototype the future themselves.
 
@@ -117,7 +117,7 @@ Every system I architect adheres to strict software engineering and operational 
 
 Whether you are an **early-stage investor**, a **founder looking to collaborate**, or an **engineering/product leader** building at the frontier of AI:
 
-* 💼 **LinkedIn:** [/in/harshit-agarwal-pm](https://www.linkedin.com/in/harshit-agarwal-pm)
+* 💼 **LinkedIn:** [/in/1997agarwal](https://www.linkedin.com/in/1997agarwal)
 * 🐦 **X (Twitter):** [@1997agarwal](https://x.com/1997agarwal)
 * 📬 **Email:** [agarwal.harshit97@gmail.com](mailto:agarwal.harshit97@gmail.com)
 * 🐙 **GitHub:** [@1997agarwal](https://github.com/1997agarwal)
