@@ -19,9 +19,16 @@
 
 ## 🧭 About Me & Philosophy
 
-I am a **Product Manager and Founder** who builds and ships products from zero to one. I build, launch, and scale venture-grade products in the AI era. 
+I am a **Product Manager and Founder** who builds and ships products from zero to one. With **7+ years across enterprise fintech, SaaS, and high-growth consumer logistics**, I bridge deep systems engineering with strategic product leadership.
 
-I believe the next generation of great product leaders won't just manage backlogs or draw wireframes; they will deeply understand systems architecture, write production code, orchestrate autonomous AI agents, and prototype the future themselves.
+> 🌐 **Interactive Web Portfolio:** Explore live architecture breakdowns, metrics, and case studies at **[1997agarwal.github.io](https://1997agarwal.github.io)**.
+
+### 🏢 Corporate Product Pedigree
+* 🚀 **Tekion Corp** (*Product Manager • Jun 2024 – Present*): Architecting enterprise B2B payments, dealer AR portals, and AI-driven collections reducing Days Sales Outstanding (DSO). *Awarded Tekion Recognition Award (May 2025).*
+* 📊 **Tally Solutions** (*Product Manager • Apr 2021 – Jun 2024*): Spearheaded 0→1 Learning & Assessment platforms serving **500,000+ active learners** and **5M+ assessments** across a 2,000+ partner network (adoption grew from 19% to 60%). *Honored with 7 corporate awards.*
+* 🚚 **Shiprocket** (*Associate Product Manager • Jun 2020 – Mar 2021*): Led First-Mile logistics automation; boosted seller pickup SLA performance by +12% and reduced IVR escalations by +16%.
+* 🛒 **Frendy** (*Junior Product Manager • 2019 – 2020*): Shipped vendor management panels, vernacular UI (Hindi/Gujarati), and single-page checkout cutting drop-off rate from 50% to 30%.
+* 🎖️ **Honours:** Recognized by **NITI Aayog** (Government of India) & top-tier product leadership for innovation.
 
 ```
        [ 0-to-1 Discovery ] ──► [ Master PRD & Specs ] ──► [ AI Multi-Agent Build ] ──► [ Production Launch ]
