@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1997agarwal.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://1997agarwal.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1997agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1997agarwal)
 [![X (Twitter)](https://img.shields.io/badge/X-@1997agarwal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/1997agarwal)
 [![GitHub](https://img.shields.io/badge/GitHub-1997agarwal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1997agarwal)
