@@ -67,12 +67,12 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <a href="https://github.com/1997agarwal/ContextPrism"><b>View Repo & Star ⭐ →</b></a>
     </td>
     <td width="33%" valign="top">
-      <h3>⚖️ <a href="https://github.com/1997agarwal/PromptCourt">PromptCourt</a></h3>
-      <a href="https://github.com/1997agarwal/PromptCourt"><img src="https://img.shields.io/github/stars/1997agarwal/PromptCourt?style=social" alt="Stars"/></a>
-      <p><b>Multi-Model LLM Benchmark Arena</b></p>
-      <p>Blind side-by-side prompt evaluation platform utilizing Elo rating mathematics to empirically score and rank competitive LLM prompt outputs with statistical rigor.</p>
-      <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Tailwind CSS</code> <code>Elo Engine</code></p>
-      <a href="https://github.com/1997agarwal/PromptCourt"><b>View Repo & Star ⭐ →</b></a>
+      <h3>⚖️ <a href="https://github.com/1997agarwal/TicTacCourt">TicTacCourt</a></h3>
+      <a href="https://github.com/1997agarwal/TicTacCourt"><img src="https://img.shields.io/github/stars/1997agarwal/TicTacCourt?style=social" alt="Stars"/></a>
+      <p><b>AI-Native Tactical Strategy Arena</b></p>
+      <p>Breaks the 1,000-year-old Tic-Tac-Toe draw loop with plain-English persuasion, dynamic board mutations (Swap, Freeze, Expand), and an autonomous AI Arbiter.</p>
+      <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Gemini AI</code> <code>Tool Calling</code></p>
+      <a href="https://github.com/1997agarwal/TicTacCourt"><b>View Repo & Star ⭐ →</b></a>
     </td>
   </tr>
 </table>
