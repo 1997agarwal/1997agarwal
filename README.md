@@ -50,7 +50,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
 
 <table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>🛠️ <a href="https://github.com/1997agarwal/SpecForge">SpecForge</a></h3>
       <a href="https://github.com/1997agarwal/SpecForge"><img src="https://img.shields.io/github/stars/1997agarwal/SpecForge?style=social" alt="Stars"/></a>
       <p><b>Autonomous Discovery-to-Spec Engine</b></p>
@@ -58,7 +58,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Linear SDK</code> <code>SQLite</code></p>
       <a href="https://1997agarwal.github.io/SpecForge"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/SpecForge"><b>Star ⭐ →</b></a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>💎 <a href="https://github.com/1997agarwal/ContextPrism">ContextPrism</a></h3>
       <a href="https://github.com/1997agarwal/ContextPrism"><img src="https://img.shields.io/github/stars/1997agarwal/ContextPrism?style=social" alt="Stars"/></a>
       <p><b>Enterprise Token FinOps & AST Pruner</b></p>
@@ -66,13 +66,23 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>Stack:</b> <code>Node.js</code> <code>TypeScript & Python</code> <code>AST FinOps</code> <code>Vite</code></p>
       <a href="https://1997agarwal.github.io/ContextPrism"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ContextPrism"><b>Star ⭐ →</b></a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>⚖️ <a href="https://github.com/1997agarwal/TicTacCourt">TicTacCourt</a></h3>
       <a href="https://github.com/1997agarwal/TicTacCourt"><img src="https://img.shields.io/github/stars/1997agarwal/TicTacCourt?style=social" alt="Stars"/></a>
       <p><b>AI-Native Tactical Strategy Arena</b></p>
       <p>Breaks the 1,000-year-old Tic-Tac-Toe draw loop with plain-English persuasion, 3 AI Arbiter personalities, dynamic grid mutations, and cascading Sudden Death.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Gemini AI</code> <code>GitHub Pages</code></p>
       <a href="https://1997agarwal.github.io/TicTacCourt"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/TicTacCourt"><b>Star ⭐ →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/1997agarwal/BrainGym">BrainGym</a></h3>
+      <a href="https://github.com/1997agarwal/BrainGym"><img src="https://img.shields.io/github/stars/1997agarwal/BrainGym?style=social" alt="Stars"/></a>
+      <p><b>Cognitive Resistance Training Arena</b></p>
+      <p>Daily mental workouts counteracting AI-induced cognitive atrophy. Features Fermi speed drills, Hallucination Hunter audits, spatial Memory Fortress, and offline judges.</p>
+      <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Web Audio</code> <code>GitHub Pages</code></p>
+      <a href="https://1997agarwal.github.io/BrainGym"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/BrainGym"><b>Star ⭐ →</b></a>
     </td>
   </tr>
 </table>
