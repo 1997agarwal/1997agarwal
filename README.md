@@ -56,7 +56,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>Autonomous Discovery-to-Spec Engine</b></p>
       <p>A 3-stage agent pipeline converting customer discovery calls into master PRDs, Gherkin BDD stories, and Linear tickets. Features 1-click PRD export & 3-scenario testing.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Linear SDK</code> <code>SQLite</code></p>
-      <a href="https://github.com/1997agarwal/SpecForge"><b>View Repo & Star ⭐ →</b></a>
+      <a href="https://1997agarwal.github.io/SpecForge"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/SpecForge"><b>Star ⭐ →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>💎 <a href="https://github.com/1997agarwal/ContextPrism">ContextPrism</a></h3>
@@ -64,7 +64,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>Enterprise Token FinOps & AST Pruner</b></p>
       <p>High-performance token FinOps gateway analyzing TypeScript & Python ASTs to strip boilerplate (-85% tokens), zero-cost semantic caching, and real-time ROI calculator.</p>
       <p><b>Stack:</b> <code>Node.js</code> <code>TypeScript & Python</code> <code>AST FinOps</code> <code>Vite</code></p>
-      <a href="https://github.com/1997agarwal/ContextPrism"><b>View Repo & Star ⭐ →</b></a>
+      <a href="https://1997agarwal.github.io/ContextPrism"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ContextPrism"><b>Star ⭐ →</b></a>
     </td>
     <td width="33%" valign="top">
       <h3>⚖️ <a href="https://github.com/1997agarwal/TicTacCourt">TicTacCourt</a></h3>
