@@ -89,19 +89,48 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
 
 ---
 
-## 🏛️ Commercial Ventures Portfolio
+## 👑 Founder Spotlight: Trippy (Nomad-Tribe)
 
-> *A portfolio of 5 domain-specific commercial products architected from 0-to-1. Each venture is built with production multi-surface architectures (Consumer Apps, CRMs, Admin Consoles, and Deployment Satellites).*  
+> *"Travel solo, never alone."*  
+> **Role:** Founder & Systems Architect | **Stage:** Active Beta (Live Cohort Testing) | **Org:** [Nomad-Tribe](https://github.com/Nomad-Tribe)
+
+Trippy is an AI-powered solo-travel social network and tour host operating system. It solves the emotional and safety friction of solo travel by matching compatible companions on overlapping itineraries with a 5-factor compatibility scoring engine, while empowering community tour operators, motorcycle riding clubs, and partner hostels with an all-in-one host CRM.
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><h3>12,400+</h3><p>Solo Travelers Matched</p></td>
+    <td width="25%" align="center"><h3>340+</h3><p>Curated Trips & Expeditions</p></td>
+    <td width="25%" align="center"><h3>47</h3><p>Destinations in India</p></td>
+    <td width="25%" align="center"><h3>80+</h3><p>Partner Communities & Hostels</p></td>
+  </tr>
+</table>
+
+* **Decoupled 0→1 System:** 4 specialized production surfaces: Consumer Matchmaker, Motorcycle & Road Trip Live GPS Telemetry Hub, Hostel Pre-Arrival Connect (Zostel, GoStops, Moustache), and Partner Host CRM (`crm-`).
+* **Stack:** `React 18 SPA` • `Node 22 Express` • `SQLite / PostgreSQL` • `Docker / Cloud Run` • `Vite Satellite`
+* 🤝 **Calling Investors & Founding Team:** Trippy is in active beta. We are acquiring our dedicated custom domain, planning pre-seed angel allocation, and expanding our core team (looking for a Technical Co-founder / Founding Full-Stack & React Native Engineer).
+
+<div align="center">
+
+[![Explore Trippy Beta](https://img.shields.io/badge/▶_Explore_Trippy_Beta_App-0D9488?style=for-the-badge&logoColor=white)](https://nomad-tribe.github.io/trippy-website/)
+&nbsp;&nbsp;
+[![Connect with Founder](https://img.shields.io/badge/🤝_Connect_with_Founder_(Investors_&_Co--founders)-B45309?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Investor%20%2F%20Co-founder%20Inquiry)
+
+</div>
+
+---
+
+## 🏛️ Proprietary 0→1 Commercial Platforms (Architected Systems)
+
+> *A portfolio of 4 domain-specific enterprise and consumer platforms architected from 0-to-1 with multi-surface architectures (Consumer Portals, CRMs, Admin Consoles, and Deployment Satellites).*  
 > 
-> 🔒 **Proprietary Commercial IP:** *These repositories are maintained under private organizations. High-level architecture walkthroughs and live interactive product demos are available to investors, partners, and hiring leaders upon request.*
+> 🔒 **Proprietary Commercial IP:** *High-level architecture walkthroughs and live interactive product studios are available below:*
 
-| Venture | Problem & Market Thesis | Key Product Innovations & Architecture | Status & Access |
+| Venture | Problem & Market Thesis | Key Product Innovations & Architecture | Interactive Studio & Access |
 |---|---|---|:---:|
-| **Trippy**<br/>👑 **Flagship Startup Venture** | **AI Solo-Travel Group Matching & Community Host OS**<br/>*"Travel solo, never alone."* In active beta testing with real cohorts. Validated solo traveler matching, bike trip expeditions, and partner host CRM ahead of dedicated custom domain rollout & corporate incorporation under Nomad-Tribe. | • **Consumer Matchmaker:** Multi-attribute solo traveler matching & trip feeds.<br/>• **Partner CRM (`crm-`):** Tour host CRM for itinerary & booking management.<br/>• **Motorcycle & Road Trip Hub:** Live GPS tracking, waypoint logs & SOS alerts.<br/>• **Admin Console (`a-`):** Trust & safety verification, payments, and moderation.<br/>• **Tech Stack:** `React 18 SPA`, `Express`, `better-sqlite3`, `Node 22`, `Docker / Cloud Run` | 🌐 **[Live Showcase ↗](https://nomad-tribe.github.io/trippy-website/)**<br/>🔥 **Active Beta** • *[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Demo%20Request)* |
-| **StartupOS** | **Universal 360° AI Product Incubator & Launchpad**<br/>Democratizing 0-to-1 software creation for founders, students, and indie builders. | • **Launchpad Exchange:** Product Hunt-style feed with live upvoting & feedback.<br/>• **Blueprint Studio:** Product workspace & automated 4-file parity health auditor.<br/>• **IdeaLab:** 0-to-1 AI prompt/voice validation engine with feasibility scoring.<br/>• **Tech Stack:** `React 18`, `Vite`, `Node.js API`, `Multi-Realm JWT`, `SQLite` | 🌐 **[Live Showcase ↗](https://builder-tribe.github.io/StartupOS-Website/)**<br/>🔒 Private IP • *[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=StartupOS%20Demo%20Request)* |
-| **DupeScout** | **AI Shopping OS & Visual Similarity Engine**<br/>*"Shop the Look. Not the Markup."* Unlocks affordable fashion alternatives for Gen Z. | • **Multimodal Vision RAG:** Image similarity search powered by CLIP models.<br/>• **Cross-Platform:** Next.js consumer web/mobile app + Chrome Extension.<br/>• **Vector Architecture:** High-throughput vector similarity pipeline with `pgvector`.<br/>• **Tech Stack:** `Next.js 14`, `FastAPI (Python 3.14)`, `pgvector`, `PostgreSQL`, `Redis` | 🌐 **[Live Showcase ↗](https://trend-tribe.github.io/dupescout-website/)**<br/>🔒 Private IP • *[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=DupeScout%20Demo%20Request)* |
-| **BusinessPay** | **B2B AR Collections & Dynamic Discounting Accelerator**<br/>Compresses Days Sales Outstanding (DSO) & unlocks trapped B2B cash flow. | • **Collector Workqueue:** Risk-scored aging buckets with action triggers.<br/>• **Dynamic Discounting Engine:** Real-time APR-based early payment discount math.<br/>• **Buyer Portal Simulation:** Self-serve invoice clearance and Promise-to-Pay (PTP).<br/>• **Tech Stack:** `React 19`, `Express 5`, `better-sqlite3`, `Node.js` | 🌐 **[Live Showcase ↗](https://business-tribe.github.io/BusinessPay-Website/)**<br/>🔒 Private IP • *[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=BusinessPay%20Demo%20Request)* |
-| **CollabKaro** | **India-First Creator Marketplace & Escrow Milestone OS**<br/>Streamlines brand-creator deals with automated milestone security. | • **Brand & Agency Portal:** Campaign brief generator and creator discovery.<br/>• **Creator Media Kit Hub:** Live metric integration & rate-card generation.<br/>• **Escrow Milestone Engine:** Dual-mode funded milestones & automated payout release.<br/>• **Tech Stack:** `React TS`, `Vite`, `Express`, `PostgreSQL/SQLite` | 🌐 **[Live Showcase ↗](https://collab-tribe.github.io/CollabKaro-Website/)**<br/>🔒 Private IP • *[Request Demo](mailto:agarwal.harshit97@gmail.com?subject=CollabKaro%20Demo%20Request)* |
+| **StartupOS** | **Universal 360° AI Product Incubator & Launchpad**<br/>Democratizing 0-to-1 software creation for founders, students, and indie builders. | • **Launchpad Exchange:** Product Hunt-style feed with live upvoting & feedback.<br/>• **Blueprint Studio:** Product workspace & automated 4-file parity health auditor.<br/>• **IdeaLab:** 0-to-1 AI prompt/voice validation engine with feasibility scoring.<br/>• **Tech Stack:** `React 18`, `Vite`, `Node.js API`, `Multi-Realm JWT`, `SQLite` | 🌐 **[▶ Launch Web Studio ↗](https://builder-tribe.github.io/StartupOS-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=StartupOS%20Walkthrough)* |
+| **DupeScout** | **AI Shopping OS & Visual Similarity Engine**<br/>*"Shop the Look. Not the Markup."* Unlocks affordable fashion alternatives for Gen Z. | • **Multimodal Vision RAG:** Image similarity search powered by CLIP models.<br/>• **Cross-Platform:** Next.js consumer web/mobile app + Chrome Extension.<br/>• **Vector Architecture:** High-throughput vector similarity pipeline with `pgvector`.<br/>• **Tech Stack:** `Next.js 14`, `FastAPI (Python 3.14)`, `pgvector`, `PostgreSQL`, `Redis` | 🌐 **[▶ Launch Web Studio ↗](https://trend-tribe.github.io/dupescout-website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=DupeScout%20Walkthrough)* |
+| **BusinessPay** | **B2B AR Collections & Dynamic Discounting Accelerator**<br/>Compresses Days Sales Outstanding (DSO) & unlocks trapped B2B cash flow. | • **Collector Workqueue:** Risk-scored aging buckets with action triggers.<br/>• **Dynamic Discounting Engine:** Real-time APR-based early payment discount math.<br/>• **Buyer Portal Simulation:** Self-serve invoice clearance and Promise-to-Pay (PTP).<br/>• **Tech Stack:** `React 19`, `Express 5`, `better-sqlite3`, `Node.js` | 🌐 **[▶ Launch Web Studio ↗](https://business-tribe.github.io/BusinessPay-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=BusinessPay%20Walkthrough)* |
+| **CollabKaro** | **India-First Creator Marketplace & Escrow Milestone OS**<br/>Streamlines brand-creator deals with automated milestone security. | • **Brand & Agency Portal:** Campaign brief generator and creator discovery.<br/>• **Creator Media Kit Hub:** Live metric integration & rate-card generation.<br/>• **Escrow Milestone Engine:** Dual-mode funded milestones & automated payout release.<br/>• **Tech Stack:** `React TS`, `Vite`, `Express`, `PostgreSQL/SQLite` | 🌐 **[▶ Launch Web Studio ↗](https://collab-tribe.github.io/CollabKaro-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=CollabKaro%20Walkthrough)* |
 
 ---
 
