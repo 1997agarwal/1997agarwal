@@ -2,9 +2,9 @@
 
 # Hi, I'm Harshit Agarwal 👋
 
-### Product Manager by Profession • Founder & 0-to-1 Systems Builder
+### Product Manager · Payments, EdTech & AI · Founder of Trippy
 
-*Bridging product strategy (user discovery, master PRDs, unit economics) with full-stack AI engineering, multi-agent systems, and production architectures.*
+*7+ years building business software: payments for car dealerships at Tekion, a learning platform at Tally. I also build AI tools and Trippy, a travel app for solo travelers.*
 
 <br/>
 
@@ -22,14 +22,15 @@
 
 I am a **Product Manager and Founder** who builds and ships products from zero to one. With **7+ years across enterprise fintech, SaaS, and high-growth consumer logistics**, I bridge deep systems engineering with strategic product leadership.
 
-> 🌐 **Interactive Web Portfolio:** Explore live architecture breakdowns, metrics, and case studies at **[1997agarwal.github.io](https://1997agarwal.github.io)**.
+> 🌐 **Interactive Web Portfolio:** Explore live architecture breakdowns, metrics, case studies, and a one-page or full resume at **[1997agarwal.github.io](https://1997agarwal.github.io)**.
 
 ### 🏢 Corporate Product Pedigree
-* 🚀 **Tekion Corp** (*Product Manager • Jun 2024 – Present*): Architecting enterprise B2B payments, dealer AR portals, and AI-driven collections reducing Days Sales Outstanding (DSO). *Awarded Tekion Recognition Award (May 2025).*
-* 📊 **Tally Solutions** (*Product Manager • Apr 2021 – Jun 2024*): Spearheaded 0→1 Learning & Assessment platforms serving **500,000+ active learners** and **5M+ assessments** across a 2,000+ partner network (adoption grew from 19% to 60%). *Honored with 7 corporate awards.*
-* 🚚 **Shiprocket** (*Associate Product Manager • Jun 2020 – Mar 2021*): Led First-Mile logistics automation; boosted seller pickup SLA performance by +12% and reduced IVR escalations by +16%.
-* 🛒 **Frendy** (*Junior Product Manager • 2019 – 2020*): Shipped vendor management panels, vernacular UI (Hindi/Gujarati), and single-page checkout cutting drop-off rate from 50% to 30%.
-* 🎖️ **Honours:** Recognized by **NITI Aayog** (Government of India) & top-tier product leadership for innovation.
+* 🚀 **Tekion Corp** (*Product Manager • Jun 2024 – Present*): Building B2B payments, dealer AR portals, and collections workqueues for automotive dealers. Going live with **200+ dealers**, projected **$1.5–2M annual revenue**. *Awarded Tekion Recognition Award (May 2025).*
+* 📊 **Tally Solutions** (*Product Manager • Apr 2021 – Jun 2024*): Launched Tally LMS and the 0→1 learning and assessment platforms serving **500,000+ learners** and **5M+ proctored exams** across 2,000+ partner institutes (adoption grew from 19% to 60%). *4 Tally awards, including The All Star Award (H2, Mar 2024).*
+* 🚚 **Shiprocket** (*Associate Product Manager • Jun 2020 – Mar 2021*): Led first-mile logistics for **40K+ sellers**; improved on-time pickups by +12% and escalation resolution by +16%.
+* 🛒 **Frendy** (*Junior Product Manager • 2019 – 2020*): Shipped vendor management panels, vernacular UI (Hindi/Gujarati), and single-page checkout cutting cart-to-payment drop-off from 50% to 30%.
+* 🎖️ **7 awards & honors in total**, across Tekion, Tally, NITI Aayog (Top 5 Startup Ideas in India, 2017) and Techfest IIT Bombay.
+* 📣 **Builder community:** 15K+ followers on **@prod.tech101**, writing about product and AI.
 
 ```
        [ 0-to-1 Discovery ] ──► [ Master PRD & Specs ] ──► [ AI Multi-Agent Build ] ──► [ Production Launch ]
@@ -91,23 +92,23 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
 
 ## 👑 Founder Spotlight: Trippy (Nomad-Tribe)
 
-> *"Travel solo, never alone."*  
-> **Role:** Founder & Systems Architect | **Stage:** Active Beta (Live Cohort Testing) | **Org:** [Nomad-Tribe](https://github.com/Nomad-Tribe)
+> *"Going solo does not mean going alone."*  
+> **Role:** Founder & Systems Architect | **Stage:** Active Beta · Pre-Incorporation | **Org:** [Nomad-Tribe](https://github.com/Nomad-Tribe)
 
-Trippy is an AI-powered solo-travel social network and tour host operating system. It solves the emotional and safety friction of solo travel by matching compatible companions on overlapping itineraries with a 5-factor compatibility scoring engine, while empowering community tour operators, motorcycle riding clubs, and partner hostels with an all-in-one host CRM.
+Trippy is an AI-powered solo-travel social network and tour host operating system. It solves the emotional and safety friction of solo travel by matching compatible companions on overlapping itineraries with multi-attribute compatibility scoring, while giving community tour operators, motorcycle riding clubs, and partner hostels an all-in-one host CRM.
 
 <table width="100%">
   <tr>
-    <td width="25%" align="center"><h3>12,400+</h3><p>Solo Travelers Matched</p></td>
-    <td width="25%" align="center"><h3>340+</h3><p>Curated Trips & Expeditions</p></td>
-    <td width="25%" align="center"><h3>47</h3><p>Destinations in India</p></td>
-    <td width="25%" align="center"><h3>80+</h3><p>Partner Communities & Hostels</p></td>
+    <td width="25%" align="center"><h3>Compatibility-Led Matching</h3><p>Travelers paired on dates, vibe and travel style</p></td>
+    <td width="25%" align="center"><h3>Safety by Design</h3><p>Live telemetry, SOS alerts and verified hosts</p></td>
+    <td width="25%" align="center"><h3>Zero-Commission Hosts</h3><p>Direct bookings, no platform fees</p></td>
+    <td width="25%" align="center"><h3>India-First Network</h3><p>Built for Indian routes, hostels and communities</p></td>
   </tr>
 </table>
 
-* **Decoupled 0→1 System:** 4 specialized production surfaces: Consumer Matchmaker, Motorcycle & Road Trip Live GPS Telemetry Hub, Hostel Pre-Arrival Connect (Zostel, GoStops, Moustache), and Partner Host CRM (`crm-`).
+* **Decoupled 0→1 System:** 5 specialized surfaces: Consumer Matchmaker, Bike & Road Trip Hub (live GPS telemetry and SOS), Hostel Group Connect (Zostel, GoStops, Moustache), Partner Host CRM, and Trust & Safety Admin.
 * **Stack:** `React 18 SPA` • `Node 22 Express` • `SQLite / PostgreSQL` • `Docker / Cloud Run` • `Vite Satellite`
-* 🤝 **Calling Investors & Founding Team:** Trippy is in active beta. We are acquiring our dedicated custom domain, planning pre-seed angel allocation, and expanding our core team (looking for a Technical Co-founder / Founding Full-Stack & React Native Engineer).
+* 🤝 **Calling Investors & Founding Team:** Trippy is in active beta ahead of incorporation and pre-seed fundraising. I'm looking for a Technical Co-founder / Founding Full-Stack & React Native Engineer.
 
 <div align="center">
 
@@ -127,10 +128,10 @@ Trippy is an AI-powered solo-travel social network and tour host operating syste
 
 | Venture | Problem & Market Thesis | Key Product Innovations & Architecture | Interactive Studio & Access |
 |---|---|---|:---:|
-| **StartupOS** | **Universal 360° AI Product Incubator & Launchpad**<br/>Democratizing 0-to-1 software creation for founders, students, and indie builders. | • **Launchpad Exchange:** Product Hunt-style feed with live upvoting & feedback.<br/>• **Blueprint Studio:** Product workspace & automated 4-file parity health auditor.<br/>• **IdeaLab:** 0-to-1 AI prompt/voice validation engine with feasibility scoring.<br/>• **Tech Stack:** `React 18`, `Vite`, `Node.js API`, `Multi-Realm JWT`, `SQLite` | 🌐 **[▶ Launch Web Studio ↗](https://builder-tribe.github.io/StartupOS-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=StartupOS%20Walkthrough)* |
-| **DupeScout** | **AI Shopping OS & Visual Similarity Engine**<br/>*"Shop the Look. Not the Markup."* Unlocks affordable fashion alternatives for Gen Z. | • **Multimodal Vision RAG:** Image similarity search powered by CLIP models.<br/>• **Cross-Platform:** Next.js consumer web/mobile app + Chrome Extension.<br/>• **Vector Architecture:** High-throughput vector similarity pipeline with `pgvector`.<br/>• **Tech Stack:** `Next.js 14`, `FastAPI (Python 3.14)`, `pgvector`, `PostgreSQL`, `Redis` | 🌐 **[▶ Launch Web Studio ↗](https://trend-tribe.github.io/dupescout-website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=DupeScout%20Walkthrough)* |
-| **BusinessPay** | **B2B AR Collections & Dynamic Discounting Accelerator**<br/>Compresses Days Sales Outstanding (DSO) & unlocks trapped B2B cash flow. | • **Collector Workqueue:** Risk-scored aging buckets with action triggers.<br/>• **Dynamic Discounting Engine:** Real-time APR-based early payment discount math.<br/>• **Buyer Portal Simulation:** Self-serve invoice clearance and Promise-to-Pay (PTP).<br/>• **Tech Stack:** `React 19`, `Express 5`, `better-sqlite3`, `Node.js` | 🌐 **[▶ Launch Web Studio ↗](https://business-tribe.github.io/BusinessPay-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=BusinessPay%20Walkthrough)* |
-| **CollabKaro** | **India-First Creator Marketplace & Escrow Milestone OS**<br/>Streamlines brand-creator deals with automated milestone security. | • **Brand & Agency Portal:** Campaign brief generator and creator discovery.<br/>• **Creator Media Kit Hub:** Live metric integration & rate-card generation.<br/>• **Escrow Milestone Engine:** Dual-mode funded milestones & automated payout release.<br/>• **Tech Stack:** `React TS`, `Vite`, `Express`, `PostgreSQL/SQLite` | 🌐 **[▶ Launch Web Studio ↗](https://collab-tribe.github.io/CollabKaro-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=CollabKaro%20Walkthrough)* |
+| **StartupOS**<br/>`BETA` | **Universal 360° AI Product Incubator & Launchpad**<br/>Democratizing 0-to-1 software creation for founders, students, and indie builders. | • **Launchpad Exchange:** Product Hunt-style feed with live upvoting & feedback.<br/>• **Blueprint Studio:** Product workspace & automated 4-file parity health auditor.<br/>• **IdeaLab:** 0-to-1 AI prompt/voice validation engine with feasibility scoring.<br/>• **Tech Stack:** `React 18`, `Vite`, `Node.js API`, `Multi-Realm JWT`, `SQLite` | 🌐 **[▶ Launch Web Studio ↗](https://builder-tribe.github.io/StartupOS-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=StartupOS%20Walkthrough)* |
+| **DupeScout**<br/>`ALPHA` | **AI Shopping OS & Visual Similarity Engine**<br/>*"Shop the Look. Not the Markup."* Unlocks affordable fashion alternatives for Gen Z. | • **Multimodal Vision RAG:** Image similarity search powered by CLIP models.<br/>• **Cross-Platform:** Next.js consumer web/mobile app + Chrome Extension.<br/>• **Vector Architecture:** High-throughput vector similarity pipeline with `pgvector`.<br/>• **Tech Stack:** `Next.js 14`, `FastAPI (Python 3.14)`, `pgvector`, `PostgreSQL`, `Redis` | 🌐 **[▶ Launch Web Studio ↗](https://trend-tribe.github.io/dupescout-website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=DupeScout%20Walkthrough)* |
+| **BusinessPay**<br/>`BETA` | **B2B AR Collections & Dynamic Discounting Accelerator**<br/>Compresses Days Sales Outstanding (DSO) & unlocks trapped B2B cash flow. | • **Collector Workqueue:** Risk-scored aging buckets with action triggers.<br/>• **Dynamic Discounting Engine:** Real-time APR-based early payment discount math.<br/>• **Buyer Portal Simulation:** Self-serve invoice clearance and Promise-to-Pay (PTP).<br/>• **Tech Stack:** `React 19`, `Express 5`, `better-sqlite3`, `Node.js` | 🌐 **[▶ Launch Web Studio ↗](https://business-tribe.github.io/BusinessPay-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=BusinessPay%20Walkthrough)* |
+| **CollabKaro**<br/>`ALPHA` | **India-First Creator Marketplace & Escrow Milestone OS**<br/>Streamlines brand-creator deals with automated milestone security. | • **Brand & Agency Portal:** Campaign brief generator and creator discovery.<br/>• **Creator Media Kit Hub:** Live metric integration & rate-card generation.<br/>• **Escrow Milestone Engine:** Dual-mode funded milestones & automated payout release.<br/>• **Tech Stack:** `React TS`, `Vite`, `Express`, `PostgreSQL/SQLite` | 🌐 **[▶ Launch Web Studio ↗](https://collab-tribe.github.io/CollabKaro-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=CollabKaro%20Walkthrough)* |
 
 ---
 
