@@ -2,7 +2,7 @@
 
 # Hi, I'm Harshit Agarwal 👋
 
-### Product Manager · Payments, EdTech & AI · Founder of Trippy
+### Senior Product Manager · AI · Builder · Founder of Trippy
 
 *7+ years building business software: payments for car dealerships at Tekion, a learning platform at Tally. I also build AI tools and Trippy, a travel app for solo travelers.*
 
