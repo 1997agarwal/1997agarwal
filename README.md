@@ -30,7 +30,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
 * 🚚 **Shiprocket** (*Associate Product Manager • Jun 2020 – Mar 2021*): Led first-mile logistics for **40K+ sellers**; improved on-time pickups by +12% and escalation resolution by +16%.
 * 🛒 **Frendy** (*Junior Product Manager • 2019 – 2020*): Shipped vendor management panels, vernacular UI (Hindi/Gujarati), and single-page checkout cutting cart-to-payment drop-off from 50% to 30%.
 * 🎖️ **7 awards & honors in total**, across Tekion, Tally, NITI Aayog (Top 5 Startup Ideas in India, 2017) and Techfest IIT Bombay.
-* 📣 **Builder community:** 15K+ followers on **@prod.tech101**, writing about product and AI.
+* 📣 **LinkedIn community:** 15K+ followers.
 
 ```
        [ 0-to-1 Discovery ] ──► [ Master PRD & Specs ] ──► [ AI Multi-Agent Build ] ──► [ Production Launch ]
