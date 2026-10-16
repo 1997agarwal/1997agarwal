@@ -86,6 +86,23 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <a href="https://1997agarwal.github.io/BrainGym"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/BrainGym"><b>Star ⭐ →</b></a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔥 <a href="https://github.com/1997agarwal/RoastHub">RoastHub</a></h3>
+      <a href="https://github.com/1997agarwal/RoastHub"><img src="https://img.shields.io/github/stars/1997agarwal/RoastHub?style=social" alt="Stars"/></a>
+      <p><b>The Savage Multi-Roast Machine for Tech & Startups</b></p>
+      <p>Client-side tech roaster for startup pitches, GitHub repos, and stacks. 300+ procedural heuristics ($0 offline) + BYOK AI Turbo, high-res thermal receipts, and 1-click viral sharing.</p>
+      <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>html2canvas</code></p>
+      <a href="https://1997agarwal.github.io/RoastHub/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/RoastHub"><b>Star ⭐ →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✨ More Open Source DevTools Coming Soon</h3>
+      <p><i>Building agentic developer tools, local-first utilities, and AI reasoning arenas in public.</i></p>
+      <p>Check out my GitHub repositories for ongoing experiments and early-stage prototypes.</p>
+      <br/>
+      <a href="https://github.com/1997agarwal?tab=repositories"><b>Explore All Repositories ↗</b></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -122,7 +139,7 @@ Trippy is an AI-powered solo-travel social network and tour host operating syste
 
 ## 🏛️ Proprietary 0→1 Commercial Platforms (Architected Systems)
 
-> *A portfolio of 5 domain-specific enterprise and consumer platforms architected from 0-to-1 with multi-surface architectures (Consumer Portals, CRMs, Admin Consoles, and Deployment Satellites).*  
+> *A portfolio of 6 domain-specific enterprise and consumer platforms architected from 0-to-1 with multi-surface architectures (Consumer Portals, CRMs, Admin Consoles, and Deployment Satellites).*  
 > 
 > 🔒 **Proprietary Commercial IP:** *High-level architecture walkthroughs and live interactive product studios are available below:*
 
@@ -133,6 +150,7 @@ Trippy is an AI-powered solo-travel social network and tour host operating syste
 | **BusinessPay**<br/>`BETA` | **B2B AR Collections & Dynamic Discounting Accelerator**<br/>Compresses Days Sales Outstanding (DSO) & unlocks trapped B2B cash flow. | • **Collector Workqueue:** Risk-scored aging buckets with action triggers.<br/>• **Dynamic Discounting Engine:** Real-time APR-based early payment discount math.<br/>• **Buyer Portal Simulation:** Self-serve invoice clearance and Promise-to-Pay (PTP).<br/>• **Tech Stack:** `React 19`, `Express 5`, `better-sqlite3`, `Node.js` | 🌐 **[▶ Launch Web Studio ↗](https://business-tribe.github.io/BusinessPay-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=BusinessPay%20Walkthrough)* |
 | **CollabKaro**<br/>`ALPHA` | **India-First Creator Marketplace & Escrow Milestone OS**<br/>Streamlines brand-creator deals with automated milestone security. | • **Brand & Agency Portal:** Campaign brief generator and creator discovery.<br/>• **Creator Media Kit Hub:** Live metric integration & rate-card generation.<br/>• **Escrow Milestone Engine:** Dual-mode funded milestones & automated payout release.<br/>• **Tech Stack:** `React TS`, `Vite`, `Express`, `PostgreSQL/SQLite` | 🌐 **[▶ Launch Web Studio ↗](https://collab-tribe.github.io/CollabKaro-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=CollabKaro%20Walkthrough)* |
 | **Housy**<br/>`BETA` | **Managed Home Construction, Renovation & Interiors OS**<br/>*"Urban Company for whole home projects"* for remote & NRI owners. | • **Phase-Wise Estimator:** Instant cost breakdowns across 20 Indian cities.<br/>• **Civil Safety Advisor:** Algorithmic load-bearing wall & drain slope validation.<br/>• **Photo-Proof Escrow:** Milestone funds released strictly upon photo sign-off.<br/>• **Tech Stack:** `Next.js 15 (App Router)`, `Tailwind 4`, `TypeScript`, `Vitest (265 tests)` | 🌐 **[▶ Launch Web Studio ↗](https://habitat-tribe.github.io/Housy-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=Housy%20Walkthrough)* |
+| **Hinged**<br/>`BETA` | **WhatsApp-Native Wedding Coordination Operating System**<br/>Eliminates spreadsheet collapse, guest overruns & function snooping. | • **Scoped Mobile Portal:** WhatsApp-delivered links resolving only to invited functions.<br/>• **3 Cultural Themes:** Royal Marwar, Modern Minimalist, and Pastel Bliss.<br/>• **Coordinator Command Center:** CSV roster import & live plate headcount analytics.<br/>• **Tech Stack:** `Next.js 14`, `TypeScript`, `Tailwind CSS`, `Zod`, `Supabase`, `PapaParse` | 🌐 **[▶ Launch Web Studio ↗](https://wedding-tribe.github.io/Hinged-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=Hinged%20Walkthrough)* |
 
 ---
 
