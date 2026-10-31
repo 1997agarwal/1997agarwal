@@ -4,7 +4,7 @@
 
 ### Senior Product Manager · AI · Builder · Founder of Trippy
 
-*7+ years building business software: payments for car dealerships at Tekion, a learning platform at Tally. I also build AI tools and Trippy, a travel app for solo travelers.*
+*7+ years building business software: payments for car dealerships at Tekion, a learning platform at Tally. I also build AI tools and Trippy, a travel product built for solo travelers to explore the unexplored.*
 
 <br/>
 
@@ -112,7 +112,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
 > *"Going solo does not mean going alone."*  
 > **Role:** Founder & Systems Architect | **Stage:** Active Beta · Pre-Incorporation | **Org:** [Nomad-Tribe](https://github.com/Nomad-Tribe)
 
-Trippy is an AI-powered solo-travel social network and tour host operating system. It solves the emotional and safety friction of solo travel by matching compatible companions on overlapping itineraries with multi-attribute compatibility scoring, while giving community tour operators, motorcycle riding clubs, and partner hostels an all-in-one host CRM.
+Trippy is a travel product built for solo travelers to explore the unexplored, and a tour host operating system. It solves the emotional and safety friction of solo travel by matching compatible companions on overlapping itineraries with multi-attribute compatibility scoring, while giving community tour operators, motorcycle riding clubs, and partner hostels an all-in-one host CRM.
 
 <table width="100%">
   <tr>
