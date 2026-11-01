@@ -112,6 +112,27 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
 
 > *Dual 0→1 startup ventures architected and launched as independent operating systems.*
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏕️ <a href="https://nomad-tribe.github.io/trippy-website/">Trippy</a></h3>
+      <p><b>Consumer TravelTech AI & Solo-Travel Network</b></p>
+      <p><i>"Going solo does not mean going alone."</i> Connects compatible travelers and equips tour operators, riding clubs, and hostels with an all-in-one host CRM across 5 surfaces.</p>
+      <p><b>Status:</b> <code>Active Beta</code> • <b>Stack:</b> <code>React 18</code> <code>Node 22</code> <code>Docker</code></p>
+      <a href="https://nomad-tribe.github.io/trippy-website/"><b>▶ Experience Trippy Live App ↗</b></a> &nbsp;|&nbsp; <a href="mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Inquiry"><b>Connect 🤝</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ <a href="https://technocrat-tribe.github.io/FixIT-Website/">FixIT</a></h3>
+      <p><b>B2B SaaS Feedback-to-Fix & Bounty Escrow Engine</b></p>
+      <p><i>"Report it once. See it fixed. Get paid for the fix."</i> Turns chaotic bug reports and app store negative reviews into validated, paid fixes with a balanced 75/10/15 escrow ledger.</p>
+      <p><b>Status:</b> <code>Active Beta</code> • <b>Stack:</b> <code>React 19</code> <code>Tailwind 4</code> <code>Express 5</code></p>
+      <a href="https://technocrat-tribe.github.io/FixIT-Website/"><b>▶ Experience FixIT Live App ↗</b></a> &nbsp;|&nbsp; <a href="mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Pilot%20Inquiry"><b>Request Pilot 🤝</b></a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 ### 🏕️ 1. Trippy — Consumer TravelTech AI & Solo-Travel Network
 > *"Going solo does not mean going alone."*  
 > **Role:** Founder & Systems Architect | **Stage:** Active Beta · Pre-Incorporation | **Org:** [Nomad-Tribe](https://github.com/Nomad-Tribe)
@@ -129,15 +150,18 @@ Trippy is an AI travel product built for solo travelers to explore the unexplore
 
 * **Decoupled 0→1 System:** 5 specialized surfaces: Consumer Matchmaker, Bike & Road Trip Hub (live GPS telemetry and SOS), Hostel Group Connect (Zostel, GoStops, Moustache), Partner Host CRM, and Trust & Safety Admin.
 * **Stack:** `React 18 SPA` • `Node 22 Express` • `SQLite / PostgreSQL` • `Docker / Cloud Run` • `Vite Satellite`
+* 🌐 **Live Web Application:** [**▶ Experience Trippy Live Web App ↗**](https://nomad-tribe.github.io/trippy-website/)
 * 🤝 **Calling Investors & Founding Team:** Trippy is in active beta ahead of incorporation and pre-seed fundraising. Open to conversations with angel investors and prospective founding engineers.
 
-<div align="center">
-
-[![Explore Trippy Beta](https://img.shields.io/badge/▶_Explore_Trippy_Beta_App-0D9488?style=for-the-badge&logoColor=white)](https://nomad-tribe.github.io/trippy-website/)
-&nbsp;&nbsp;
-[![Connect with Founder](https://img.shields.io/badge/🤝_Connect_with_Founder_(Trippy)-B45309?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Investor%20%2F%20Co-founder%20Inquiry)
-
-</div>
+<p align="center">
+  <a href="https://nomad-tribe.github.io/trippy-website/">
+    <img src="https://img.shields.io/badge/▶_Experience_Trippy_Beta_App-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Experience Trippy Beta App" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Investor%20%2F%20Co-founder%20Inquiry">
+    <img src="https://img.shields.io/badge/🤝_Connect_with_Founder_(Trippy)-B45309?style=for-the-badge&logoColor=white" alt="Connect with Founder" />
+  </a>
+</p>
 
 <br/>
 
@@ -158,17 +182,22 @@ FixIT is a three-sided B2B SaaS platform that turns chaotic public bug complaint
 
 * **Decoupled 0→1 System:** 5 production surfaces: Enterprise Triage Command Center (`/org/:slug`), Reporter Feedback Portal (`/me`, `/report`, `/widget.js`), Solver Bounty Marketplace (`/marketplace`), Customer Support Desk (`/support`), and Fixit Ops & Ledger Console (`/admin`).
 * **Stack:** `React 19 SPA` • `Tailwind CSS v4` • `Node.js Express 5` • `node:sqlite (76 Tests)` • `TypeScript Strict`
+* 🌐 **Live Web Application:** [**▶ Experience FixIT Live Web App ↗**](https://technocrat-tribe.github.io/FixIT-Website/)
 * 🤝 **Calling SaaS Investors & Design Partners:** FixIT is in active beta. Open to discussions with enterprise design partners seeking to reduce customer churn and angel/micro-VCs.
 
-<div align="center">
-
-[![Explore FixIT Showcase](https://img.shields.io/badge/▶_Explore_FixIT_Showcase-0284C7?style=for-the-badge&logoColor=white)](https://technocrat-tribe.github.io/FixIT-Website/)
-&nbsp;&nbsp;
-[![Request FixIT Walkthrough](https://img.shields.io/badge/▶_Request_FixIT_Pilot_%26_Walkthrough-4F46E5?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Enterprise%20Pilot%20%2F%20Walkthrough)
-&nbsp;&nbsp;
-[![Connect with Founder](https://img.shields.io/badge/🤝_Connect_with_Founder_(FixIT)-10B981?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Investor%20%2F%20Design%20Partner%20Inquiry)
-
-</div>
+<p align="center">
+  <a href="https://technocrat-tribe.github.io/FixIT-Website/">
+    <img src="https://img.shields.io/badge/▶_Experience_FixIT_Showcase-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Experience FixIT Showcase" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Enterprise%20Pilot%20%2F%20Walkthrough">
+    <img src="https://img.shields.io/badge/▶_Request_FixIT_Pilot-4F46E5?style=for-the-badge&logoColor=white" alt="Request Pilot" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Investor%20%2F%20Design%20Partner%20Inquiry">
+    <img src="https://img.shields.io/badge/🤝_Connect_with_Founder_(FixIT)-10B981?style=for-the-badge&logoColor=white" alt="Connect with Founder" />
+  </a>
+</p>
 
 ---
 
