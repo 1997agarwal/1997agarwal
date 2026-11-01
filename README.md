@@ -2,9 +2,9 @@
 
 # Hi, I'm Harshit Agarwal 👋
 
-### Senior Product Manager · AI · Builder · Founder of Trippy
+### Senior Product Manager · AI · Builder · Founder of Trippy & FixIT
 
-*7+ years building business software: payments for car dealerships at Tekion, a learning platform at Tally. I also build AI tools and Trippy, an AI travel product built for solo travelers to explore the unexplored.*
+*7+ years building business software: payments for car dealerships at Tekion, a learning platform at Tally. Founder of Trippy (Consumer AI travel network) & FixIT (B2B SaaS feedback-to-fix platform).*
 
 <br/>
 
@@ -139,12 +139,13 @@ Trippy is an AI travel product built for solo travelers to explore the unexplore
 
 ## 🏛️ Proprietary 0→1 Commercial Platforms (Architected Systems)
 
-> *A portfolio of 6 domain-specific enterprise and consumer platforms architected from 0-to-1 with multi-surface architectures (Consumer Portals, CRMs, Admin Consoles, and Deployment Satellites).*  
+> *A portfolio of 7 domain-specific enterprise and consumer platforms architected from 0-to-1 with multi-surface architectures (Consumer Portals, CRMs, Admin Consoles, and Deployment Satellites).*  
 > 
 > 🔒 **Proprietary Commercial IP:** *High-level architecture walkthroughs and live interactive product studios are available below:*
 
 | Venture | Problem & Market Thesis | Key Product Innovations & Architecture | Interactive Studio & Access |
 |---|---|---|:---:|
+| **FixIT**<br/>`BETA` | **Feedback-to-Fix B2B SaaS Platform & Bounty Escrow Engine**<br/>Turns unstructured app store reviews and complaints into validated, paid fixes. | • **Triage Command Center:** Priority scoring with Markdown export to GitHub/Linear.<br/>• **Structured Ingestion & Deduplication:** Token-cosine auto-deduplication & embeddable widget.<br/>• **Escrow Solution Marketplace:** 75% solver / 10% reporter / 15% platform split.<br/>• **Tech Stack:** `React 19`, `Tailwind 4`, `TypeScript`, `Node.js Express 5`, `node:sqlite (76 tests)` | 🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Walkthrough)* |
 | **StartupOS**<br/>`BETA` | **Universal 360° AI Product Incubator & Launchpad**<br/>Democratizing 0-to-1 software creation for founders, students, and indie builders. | • **Launchpad Exchange:** Product Hunt-style feed with live upvoting & feedback.<br/>• **Blueprint Studio:** Product workspace & automated 4-file parity health auditor.<br/>• **IdeaLab:** 0-to-1 AI prompt/voice validation engine with feasibility scoring.<br/>• **Tech Stack:** `React 18`, `Vite`, `Node.js API`, `Multi-Realm JWT`, `SQLite` | 🌐 **[▶ Launch Web Studio ↗](https://builder-tribe.github.io/StartupOS-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=StartupOS%20Walkthrough)* |
 | **DupeScout**<br/>`ALPHA` | **AI Shopping OS & Visual Similarity Engine**<br/>*"Shop the Look. Not the Markup."* Unlocks affordable fashion alternatives for Gen Z. | • **Visual Similarity (planned):** Image similarity search with CLIP models and `pgvector`.<br/>• **Cross-Platform:** Next.js consumer web/mobile app + Chrome Extension.<br/>• **Sample-Data Catalog:** Consumer and seller screens run on sample data until the product feed is connected.<br/>• **Tech Stack:** `Next.js 14`, `FastAPI (Python 3.14)`, `Tailwind CSS 3`, planned: `pgvector`, `Redis` | 🌐 **[▶ Launch Web Studio ↗](https://trend-tribe.github.io/dupescout-website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=DupeScout%20Walkthrough)* |
 | **BusinessPay**<br/>`BETA` | **B2B AR Collections & Dynamic Discounting Accelerator**<br/>Compresses Days Sales Outstanding (DSO) & unlocks trapped B2B cash flow. | • **Collector Workqueue:** Risk-scored aging buckets with action triggers.<br/>• **Dynamic Discounting Engine:** Real-time APR-based early payment discount math.<br/>• **Buyer Portal Simulation:** Self-serve invoice clearance and Promise-to-Pay (PTP).<br/>• **Tech Stack:** `React 19`, `Express 5`, `better-sqlite3`, `Node.js` | 🌐 **[▶ Launch Web Studio ↗](https://business-tribe.github.io/BusinessPay-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=BusinessPay%20Walkthrough)* |
