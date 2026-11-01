@@ -107,8 +107,11 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
 
 ---
 
-## 👑 Founder Spotlight: Trippy (Nomad-Tribe)
+## 👑 Flagship Founder Startups
 
+> *Dual 0→1 startup ventures architected and launched as independent operating systems.*
+
+### 🏕️ 1. Trippy — Consumer TravelTech AI & Solo-Travel Network
 > *"Going solo does not mean going alone."*  
 > **Role:** Founder & Systems Architect | **Stage:** Active Beta · Pre-Incorporation | **Org:** [Nomad-Tribe](https://github.com/Nomad-Tribe)
 
@@ -125,13 +128,42 @@ Trippy is an AI travel product built for solo travelers to explore the unexplore
 
 * **Decoupled 0→1 System:** 5 specialized surfaces: Consumer Matchmaker, Bike & Road Trip Hub (live GPS telemetry and SOS), Hostel Group Connect (Zostel, GoStops, Moustache), Partner Host CRM, and Trust & Safety Admin.
 * **Stack:** `React 18 SPA` • `Node 22 Express` • `SQLite / PostgreSQL` • `Docker / Cloud Run` • `Vite Satellite`
-* 🤝 **Calling Investors & Founding Team:** Trippy is in active beta ahead of incorporation and pre-seed fundraising. I'm looking for a Technical Co-founder / Founding Full-Stack & React Native Engineer.
+* 🤝 **Calling Investors & Founding Team:** Trippy is in active beta ahead of incorporation and pre-seed fundraising. Open to conversations with angel investors and prospective founding engineers.
 
 <div align="center">
 
 [![Explore Trippy Beta](https://img.shields.io/badge/▶_Explore_Trippy_Beta_App-0D9488?style=for-the-badge&logoColor=white)](https://nomad-tribe.github.io/trippy-website/)
 &nbsp;&nbsp;
-[![Connect with Founder](https://img.shields.io/badge/🤝_Connect_with_Founder_(Investors_&_Co--founders)-B45309?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Investor%20%2F%20Co-founder%20Inquiry)
+[![Connect with Founder](https://img.shields.io/badge/🤝_Connect_with_Founder_(Trippy)-B45309?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Investor%20%2F%20Co-founder%20Inquiry)
+
+</div>
+
+<br/>
+
+### 🛠️ 2. FixIT — B2B SaaS Feedback-to-Fix & Bounty Escrow Engine
+> *"Report it once. See it fixed. Get paid for the fix."*  
+> **Role:** Founder & Systems Architect | **Stage:** Active Beta · Pre-Seed / Incubating | **Org:** [Technocrat-Tribe](https://github.com/Technocrat-Tribe)
+
+FixIT is a three-sided B2B SaaS platform that turns chaotic public bug complaints and app store negative reviews into validated, paid engineering solutions. It bridges enterprise product teams, reporters, and external solvers through structured ingestion, priority scoring, and a balanced double-entry escrow ledger.
+
+<table width="100%">
+  <tr>
+    <td width="25%" align="center"><h3>Structured Ingestion</h3><p>Auto-dedup, telemetry capture & embeddable widget</p></td>
+    <td width="25%" align="center"><h3>Triage Command Center</h3><p>Priority scores & Linear/GitHub issue export</p></td>
+    <td width="25%" align="center"><h3>Bounty Escrow Engine</h3><p>75% solver / 10% reporter / 15% platform split</p></td>
+    <td width="25%" align="center"><h3>Ops & Balanced Ledger</h3><p>Prepaid balance, KYC review & dispute resolution</p></td>
+  </tr>
+</table>
+
+* **Decoupled 0→1 System:** 5 production surfaces: Enterprise Triage Command Center (`/org/:slug`), Reporter Feedback Portal (`/me`, `/report`, `/widget.js`), Solver Bounty Marketplace (`/marketplace`), Customer Support Desk (`/support`), and Fixit Ops & Ledger Console (`/admin`).
+* **Stack:** `React 19 SPA` • `Tailwind CSS v4` • `Node.js Express 5` • `node:sqlite (76 Tests)` • `TypeScript Strict`
+* 🤝 **Calling SaaS Investors & Design Partners:** FixIT is in active beta. Open to discussions with enterprise design partners seeking to reduce customer churn and angel/micro-VCs.
+
+<div align="center">
+
+[![Request FixIT Walkthrough](https://img.shields.io/badge/▶_Request_FixIT_Pilot_%26_Walkthrough-0284C7?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Enterprise%20Pilot%20%2F%20Walkthrough)
+&nbsp;&nbsp;
+[![Connect with Founder](https://img.shields.io/badge/🤝_Connect_with_Founder_(FixIT)-4F46E5?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Investor%20%2F%20Design%20Partner%20Inquiry)
 
 </div>
 
@@ -139,13 +171,12 @@ Trippy is an AI travel product built for solo travelers to explore the unexplore
 
 ## 🏛️ Proprietary 0→1 Commercial Platforms (Architected Systems)
 
-> *A portfolio of 7 domain-specific enterprise and consumer platforms architected from 0-to-1 with multi-surface architectures (Consumer Portals, CRMs, Admin Consoles, and Deployment Satellites).*  
+> *A portfolio of 6 domain-specific enterprise and consumer platforms architected from 0-to-1 with multi-surface architectures (Consumer Portals, CRMs, Admin Consoles, and Deployment Satellites).*  
 > 
 > 🔒 **Proprietary Commercial IP:** *High-level architecture walkthroughs and live interactive product studios are available below:*
 
 | Venture | Problem & Market Thesis | Key Product Innovations & Architecture | Interactive Studio & Access |
 |---|---|---|:---:|
-| **FixIT**<br/>`BETA` | **Feedback-to-Fix B2B SaaS Platform & Bounty Escrow Engine**<br/>Turns unstructured app store reviews and complaints into validated, paid fixes. | • **Triage Command Center:** Priority scoring with Markdown export to GitHub/Linear.<br/>• **Structured Ingestion & Deduplication:** Token-cosine auto-deduplication & embeddable widget.<br/>• **Escrow Solution Marketplace:** 75% solver / 10% reporter / 15% platform split.<br/>• **Tech Stack:** `React 19`, `Tailwind 4`, `TypeScript`, `Node.js Express 5`, `node:sqlite (76 tests)` | 🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Walkthrough)* |
 | **StartupOS**<br/>`BETA` | **Universal 360° AI Product Incubator & Launchpad**<br/>Democratizing 0-to-1 software creation for founders, students, and indie builders. | • **Launchpad Exchange:** Product Hunt-style feed with live upvoting & feedback.<br/>• **Blueprint Studio:** Product workspace & automated 4-file parity health auditor.<br/>• **IdeaLab:** 0-to-1 AI prompt/voice validation engine with feasibility scoring.<br/>• **Tech Stack:** `React 18`, `Vite`, `Node.js API`, `Multi-Realm JWT`, `SQLite` | 🌐 **[▶ Launch Web Studio ↗](https://builder-tribe.github.io/StartupOS-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=StartupOS%20Walkthrough)* |
 | **DupeScout**<br/>`ALPHA` | **AI Shopping OS & Visual Similarity Engine**<br/>*"Shop the Look. Not the Markup."* Unlocks affordable fashion alternatives for Gen Z. | • **Visual Similarity (planned):** Image similarity search with CLIP models and `pgvector`.<br/>• **Cross-Platform:** Next.js consumer web/mobile app + Chrome Extension.<br/>• **Sample-Data Catalog:** Consumer and seller screens run on sample data until the product feed is connected.<br/>• **Tech Stack:** `Next.js 14`, `FastAPI (Python 3.14)`, `Tailwind CSS 3`, planned: `pgvector`, `Redis` | 🌐 **[▶ Launch Web Studio ↗](https://trend-tribe.github.io/dupescout-website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=DupeScout%20Walkthrough)* |
 | **BusinessPay**<br/>`BETA` | **B2B AR Collections & Dynamic Discounting Accelerator**<br/>Compresses Days Sales Outstanding (DSO) & unlocks trapped B2B cash flow. | • **Collector Workqueue:** Risk-scored aging buckets with action triggers.<br/>• **Dynamic Discounting Engine:** Real-time APR-based early payment discount math.<br/>• **Buyer Portal Simulation:** Self-serve invoice clearance and Promise-to-Pay (PTP).<br/>• **Tech Stack:** `React 19`, `Express 5`, `better-sqlite3`, `Node.js` | 🌐 **[▶ Launch Web Studio ↗](https://business-tribe.github.io/BusinessPay-Website/)**<br/>🔒 Private IP • *[Request Walkthrough](mailto:agarwal.harshit97@gmail.com?subject=BusinessPay%20Walkthrough)* |
