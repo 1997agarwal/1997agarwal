@@ -96,11 +96,12 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <a href="https://1997agarwal.github.io/RoastHub/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/RoastHub"><b>Star ⭐ →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>✨ More Open Source DevTools Coming Soon</h3>
-      <p><i>Building agentic developer tools, local-first utilities, and AI reasoning arenas in public.</i></p>
-      <p>Check out my GitHub repositories for ongoing experiments and early-stage prototypes.</p>
-      <br/>
-      <a href="https://github.com/1997agarwal?tab=repositories"><b>Explore All Repositories ↗</b></a>
+      <h3>🔍 <a href="https://github.com/1997agarwal/ReverseUI">ReverseUI</a></h3>
+      <a href="https://github.com/1997agarwal/ReverseUI"><img src="https://img.shields.io/github/stars/1997agarwal/ReverseUI?style=social" alt="Stars"/></a>
+      <p><b>Zero-Server Web UI & Motion Decompiler</b></p>
+      <p>Deconstructs any web snippet, minified DOM, or CSS animation into clean React 18 + Tailwind + Framer Motion in &lt;5ms. 4-stage REA pipeline, $0/mo cost, 24 vitests.</p>
+      <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></p>
+      <a href="https://1997agarwal.github.io/ReverseUI/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ReverseUI"><b>Star ⭐ →</b></a>
     </td>
   </tr>
 </table>
@@ -161,9 +162,11 @@ FixIT is a three-sided B2B SaaS platform that turns chaotic public bug complaint
 
 <div align="center">
 
-[![Request FixIT Walkthrough](https://img.shields.io/badge/▶_Request_FixIT_Pilot_%26_Walkthrough-0284C7?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Enterprise%20Pilot%20%2F%20Walkthrough)
+[![Explore FixIT Showcase](https://img.shields.io/badge/▶_Explore_FixIT_Showcase-0284C7?style=for-the-badge&logoColor=white)](https://technocrat-tribe.github.io/FixIT-Website/)
 &nbsp;&nbsp;
-[![Connect with Founder](https://img.shields.io/badge/🤝_Connect_with_Founder_(FixIT)-4F46E5?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Investor%20%2F%20Design%20Partner%20Inquiry)
+[![Request FixIT Walkthrough](https://img.shields.io/badge/▶_Request_FixIT_Pilot_%26_Walkthrough-4F46E5?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Enterprise%20Pilot%20%2F%20Walkthrough)
+&nbsp;&nbsp;
+[![Connect with Founder](https://img.shields.io/badge/🤝_Connect_with_Founder_(FixIT)-10B981?style=for-the-badge&logoColor=white)](mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Investor%20%2F%20Design%20Partner%20Inquiry)
 
 </div>
 
