@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1997agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1997agarwal)
 [![X (Twitter)](https://img.shields.io/badge/X-@1997agarwal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/1997agarwal)
 [![GitHub](https://img.shields.io/badge/GitHub-1997agarwal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1997agarwal)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agarwal.harshit97@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@harshit.buzz)
 
 </div>
 
@@ -52,56 +52,50 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://github.com/1997agarwal/SpecForge">SpecForge</a></h3>
-      <a href="https://github.com/1997agarwal/SpecForge"><img src="https://img.shields.io/github/stars/1997agarwal/SpecForge?style=social" alt="Stars"/></a>
+      <h3>🛠️ SpecForge</h3>
       <p><b>Autonomous Discovery-to-Spec Engine</b></p>
       <p>A 3-stage agent pipeline converting customer discovery calls into master PRDs, Gherkin BDD stories, and Linear tickets. Features 1-click PRD export & 3-scenario testing.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Linear SDK</code> <code>SQLite</code></p>
-      <a href="https://harshit.buzz/SpecForge"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/SpecForge"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/SpecForge"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/SpecForge"><b>GitHub Repo ⭐ →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>💎 <a href="https://github.com/1997agarwal/ContextPrism">ContextPrism</a></h3>
-      <a href="https://github.com/1997agarwal/ContextPrism"><img src="https://img.shields.io/github/stars/1997agarwal/ContextPrism?style=social" alt="Stars"/></a>
+      <h3>💎 ContextPrism</h3>
       <p><b>Enterprise Token FinOps & AST Pruner</b></p>
       <p>High-performance token FinOps gateway analyzing TypeScript & Python ASTs to strip boilerplate (-85% tokens), zero-cost semantic caching, and real-time ROI calculator.</p>
       <p><b>Stack:</b> <code>Node.js</code> <code>TypeScript & Python</code> <code>AST FinOps</code> <code>Vite</code></p>
-      <a href="https://harshit.buzz/ContextPrism"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ContextPrism"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/ContextPrism"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ContextPrism"><b>GitHub Repo ⭐ →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/1997agarwal/TicTacCourt">TicTacCourt</a></h3>
-      <a href="https://github.com/1997agarwal/TicTacCourt"><img src="https://img.shields.io/github/stars/1997agarwal/TicTacCourt?style=social" alt="Stars"/></a>
+      <h3>⚖️ TicTacCourt</h3>
       <p><b>AI-Native Tactical Strategy Arena</b></p>
       <p>Breaks the 1,000-year-old Tic-Tac-Toe draw loop with plain-English persuasion, 3 AI Arbiter personalities, dynamic grid mutations, and cascading Sudden Death.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Gemini AI</code> <code>GitHub Pages</code></p>
-      <a href="https://harshit.buzz/TicTacCourt"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/TicTacCourt"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/TicTacCourt"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/TicTacCourt"><b>GitHub Repo ⭐ →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/1997agarwal/BrainGym">BrainGym</a></h3>
-      <a href="https://github.com/1997agarwal/BrainGym"><img src="https://img.shields.io/github/stars/1997agarwal/BrainGym?style=social" alt="Stars"/></a>
+      <h3>🧠 BrainGym</h3>
       <p><b>Cognitive Resistance Training Arena</b></p>
       <p>Daily mental workouts counteracting AI-induced cognitive atrophy. Features Fermi speed drills, Hallucination Hunter audits, spatial Memory Fortress, and offline judges.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Web Audio</code> <code>GitHub Pages</code></p>
-      <a href="https://harshit.buzz/BrainGym"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/BrainGym"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/BrainGym"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/BrainGym"><b>GitHub Repo ⭐ →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🔥 <a href="https://github.com/1997agarwal/RoastHub">RoastHub</a></h3>
-      <a href="https://github.com/1997agarwal/RoastHub"><img src="https://img.shields.io/github/stars/1997agarwal/RoastHub?style=social" alt="Stars"/></a>
+      <h3>🔥 RoastHub</h3>
       <p><b>The Savage Multi-Roast Machine for Tech & Startups</b></p>
       <p>Client-side tech roaster for startup pitches, GitHub repos, and stacks. 300+ procedural heuristics ($0 offline) + BYOK AI Turbo, high-res thermal receipts, and 1-click viral sharing.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>html2canvas</code></p>
-      <a href="https://harshit.buzz/RoastHub/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/RoastHub"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/RoastHub/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/RoastHub"><b>GitHub Repo ⭐ →</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://github.com/1997agarwal/ReverseUI">ReverseUI</a></h3>
-      <a href="https://github.com/1997agarwal/ReverseUI"><img src="https://img.shields.io/github/stars/1997agarwal/ReverseUI?style=social" alt="Stars"/></a>
+      <h3>🔍 ReverseUI</h3>
       <p><b>Zero-Server Web UI & Motion Decompiler</b></p>
       <p>Deconstructs any web snippet, minified DOM, or CSS animation into clean React 18 + Tailwind + Framer Motion in &lt;5ms. 4-stage REA pipeline, $0/mo cost, 24 vitests.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></p>
-      <a href="https://harshit.buzz/ReverseUI/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ReverseUI"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/ReverseUI/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ReverseUI"><b>GitHub Repo ⭐ →</b></a>
     </td>
   </tr>
 </table>
@@ -115,18 +109,18 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🏕️ <a href="https://nomad-tribe.github.io/trippy-website/">Trippy</a></h3>
+      <h3>🏕️ Trippy</h3>
       <p><b>Consumer TravelTech AI & Solo-Travel Network</b></p>
       <p><i>"Going solo does not mean going alone."</i> Connects compatible travelers and equips tour operators, riding clubs, and hostels with an all-in-one host CRM across 5 surfaces.</p>
       <p><b>Status:</b> <code>Active Beta</code> • <b>Stack:</b> <code>React 18</code> <code>Node 22</code> <code>Docker</code></p>
-      <a href="https://nomad-tribe.github.io/trippy-website/"><b>▶ Experience Trippy Live App ↗</b></a> &nbsp;|&nbsp; <a href="mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Inquiry"><b>Connect 🤝</b></a>
+      <a href="https://nomad-tribe.github.io/trippy-website/"><b>▶ Experience Trippy Live App ↗</b></a> &nbsp;|&nbsp; <a href="mailto:hello@harshit.buzz?subject=Trippy%20Inquiry"><b>Connect 🤝</b></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛠️ <a href="https://technocrat-tribe.github.io/FixIT-Website/">FixIT</a></h3>
+      <h3>🛠️ FixIT</h3>
       <p><b>B2B SaaS Feedback-to-Fix & Bounty Escrow Engine</b></p>
       <p><i>"Report it once. See it fixed. Get paid for the fix."</i> Turns chaotic bug reports and app store negative reviews into validated, paid fixes with a balanced 75/10/15 escrow ledger.</p>
       <p><b>Status:</b> <code>Active Beta</code> • <b>Stack:</b> <code>React 19</code> <code>Tailwind 4</code> <code>Express 5</code></p>
-      <a href="https://technocrat-tribe.github.io/FixIT-Website/"><b>▶ Experience FixIT Live App ↗</b></a> &nbsp;|&nbsp; <a href="mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Pilot%20Inquiry"><b>Request Pilot 🤝</b></a>
+      <a href="https://technocrat-tribe.github.io/FixIT-Website/"><b>▶ Experience FixIT Live App ↗</b></a> &nbsp;|&nbsp; <a href="mailto:hello@harshit.buzz?subject=FixIT%20Inquiry"><b>Connect 🤝</b></a>
     </td>
   </tr>
 </table>
@@ -155,11 +149,15 @@ Trippy is an AI travel product built for solo travelers to explore the unexplore
 
 <p align="center">
   <a href="https://nomad-tribe.github.io/trippy-website/">
-    <img src="https://img.shields.io/badge/▶_Experience_Trippy_Beta_App-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Experience Trippy Beta App" />
+    <img src="https://img.shields.io/badge/▶_Experience_Trippy_Live_App-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Experience Trippy Live App" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:agarwal.harshit97@gmail.com?subject=Trippy%20Investor%20%2F%20Co-founder%20Inquiry">
-    <img src="https://img.shields.io/badge/🤝_Connect_with_Founder_(Trippy)-B45309?style=for-the-badge&logoColor=white" alt="Connect with Founder" />
+  <a href="https://github.com/Nomad-Tribe/Trippy">
+    <img src="https://img.shields.io/badge/📋_Explore_Architecture_&_Specs-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore Architecture & Specs" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:hello@harshit.buzz?subject=Trippy%20Investor%20%2F%20Co-founder%20Inquiry">
+    <img src="https://img.shields.io/badge/🤝_Connect_with_Founder_(Trippy)-10B981?style=for-the-badge&logoColor=white" alt="Connect with Founder" />
   </a>
 </p>
 
@@ -187,14 +185,14 @@ FixIT is a three-sided B2B SaaS platform that turns chaotic public bug complaint
 
 <p align="center">
   <a href="https://technocrat-tribe.github.io/FixIT-Website/">
-    <img src="https://img.shields.io/badge/▶_Experience_FixIT_Showcase-0284C7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Experience FixIT Showcase" />
+    <img src="https://img.shields.io/badge/▶_Experience_FixIT_Live_App-0D9488?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Experience FixIT Live App" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Enterprise%20Pilot%20%2F%20Walkthrough">
-    <img src="https://img.shields.io/badge/▶_Request_FixIT_Pilot-4F46E5?style=for-the-badge&logoColor=white" alt="Request Pilot" />
+  <a href="https://github.com/Technocrat-Tribe/FixIT">
+    <img src="https://img.shields.io/badge/📋_Explore_Architecture_&_Specs-4F46E5?style=for-the-badge&logo=github&logoColor=white" alt="Explore Architecture & Specs" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:agarwal.harshit97@gmail.com?subject=FixIT%20Investor%20%2F%20Design%20Partner%20Inquiry">
+  <a href="mailto:hello@harshit.buzz?subject=FixIT%20Investor%20%2F%20Design%20Partner%20Inquiry">
     <img src="https://img.shields.io/badge/🤝_Connect_with_Founder_(FixIT)-10B981?style=for-the-badge&logoColor=white" alt="Connect with Founder" />
   </a>
 </p>
