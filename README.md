@@ -8,7 +8,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1997agarwal.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://1997agarwal.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-harshit.buzz-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harshit.buzz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1997agarwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1997agarwal)
 [![X (Twitter)](https://img.shields.io/badge/X-@1997agarwal-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/1997agarwal)
 [![GitHub](https://img.shields.io/badge/GitHub-1997agarwal-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1997agarwal)
@@ -22,7 +22,7 @@
 
 I am a **Product Manager and Founder** who builds and ships products from zero to one. With **7+ years across enterprise fintech, SaaS, and high-growth consumer logistics**, I bridge deep systems engineering with strategic product leadership.
 
-> 🌐 **Live portfolio:** Explore live architecture breakdowns, metrics, case studies, and a one-page or full resume at **[1997agarwal.github.io](https://1997agarwal.github.io)**.
+> 🌐 **Live portfolio:** Explore live architecture breakdowns, metrics, case studies, and a one-page or full resume at **[harshit.buzz](https://harshit.buzz)**.
 
 ### 🏢 Corporate Product Pedigree
 * 🚀 **Tekion Corp** (*Product Manager • Jun 2024 – Present*): Building B2B payments, dealer AR portals, and collections workqueues for automotive dealers. Going live with **200+ dealers**, projected **$1.5–2M annual revenue**. *Awarded Tekion Recognition Award (May 2025).*
@@ -57,7 +57,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>Autonomous Discovery-to-Spec Engine</b></p>
       <p>A 3-stage agent pipeline converting customer discovery calls into master PRDs, Gherkin BDD stories, and Linear tickets. Features 1-click PRD export & 3-scenario testing.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Linear SDK</code> <code>SQLite</code></p>
-      <a href="https://1997agarwal.github.io/SpecForge"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/SpecForge"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/SpecForge"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/SpecForge"><b>Star ⭐ →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>💎 <a href="https://github.com/1997agarwal/ContextPrism">ContextPrism</a></h3>
@@ -65,7 +65,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>Enterprise Token FinOps & AST Pruner</b></p>
       <p>High-performance token FinOps gateway analyzing TypeScript & Python ASTs to strip boilerplate (-85% tokens), zero-cost semantic caching, and real-time ROI calculator.</p>
       <p><b>Stack:</b> <code>Node.js</code> <code>TypeScript & Python</code> <code>AST FinOps</code> <code>Vite</code></p>
-      <a href="https://1997agarwal.github.io/ContextPrism"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ContextPrism"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/ContextPrism"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ContextPrism"><b>Star ⭐ →</b></a>
     </td>
   </tr>
   <tr>
@@ -75,7 +75,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>AI-Native Tactical Strategy Arena</b></p>
       <p>Breaks the 1,000-year-old Tic-Tac-Toe draw loop with plain-English persuasion, 3 AI Arbiter personalities, dynamic grid mutations, and cascading Sudden Death.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Gemini AI</code> <code>GitHub Pages</code></p>
-      <a href="https://1997agarwal.github.io/TicTacCourt"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/TicTacCourt"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/TicTacCourt"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/TicTacCourt"><b>Star ⭐ →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/1997agarwal/BrainGym">BrainGym</a></h3>
@@ -83,7 +83,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>Cognitive Resistance Training Arena</b></p>
       <p>Daily mental workouts counteracting AI-induced cognitive atrophy. Features Fermi speed drills, Hallucination Hunter audits, spatial Memory Fortress, and offline judges.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Web Audio</code> <code>GitHub Pages</code></p>
-      <a href="https://1997agarwal.github.io/BrainGym"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/BrainGym"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/BrainGym"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/BrainGym"><b>Star ⭐ →</b></a>
     </td>
   </tr>
   <tr>
@@ -93,7 +93,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>The Savage Multi-Roast Machine for Tech & Startups</b></p>
       <p>Client-side tech roaster for startup pitches, GitHub repos, and stacks. 300+ procedural heuristics ($0 offline) + BYOK AI Turbo, high-res thermal receipts, and 1-click viral sharing.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>html2canvas</code></p>
-      <a href="https://1997agarwal.github.io/RoastHub/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/RoastHub"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/RoastHub/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/RoastHub"><b>Star ⭐ →</b></a>
     </td>
     <td width="50%" valign="top">
       <h3>🔍 <a href="https://github.com/1997agarwal/ReverseUI">ReverseUI</a></h3>
@@ -101,7 +101,7 @@ I am a **Product Manager and Founder** who builds and ships products from zero t
       <p><b>Zero-Server Web UI & Motion Decompiler</b></p>
       <p>Deconstructs any web snippet, minified DOM, or CSS animation into clean React 18 + Tailwind + Framer Motion in &lt;5ms. 4-stage REA pipeline, $0/mo cost, 24 vitests.</p>
       <p><b>Stack:</b> <code>React 18</code> <code>TypeScript</code> <code>Tailwind</code> <code>Framer Motion</code></p>
-      <a href="https://1997agarwal.github.io/ReverseUI/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ReverseUI"><b>Star ⭐ →</b></a>
+      <a href="https://harshit.buzz/ReverseUI/"><b>▶ Play Live Demo ↗</b></a> &nbsp;|&nbsp; <a href="https://github.com/1997agarwal/ReverseUI"><b>Star ⭐ →</b></a>
     </td>
   </tr>
 </table>
